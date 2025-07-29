@@ -24,7 +24,7 @@ pip install pandas
 # How to use
 ## 1. Use Git clone for download the code
 ```bash
-git clone https://github.com/SEU_USUARIO/csv-to-json-converter.git
+git clone https://github.com/secrets4152/csv-to-json-converter.git
 ```
 
 ## 2. Acess Folder
