@@ -22,7 +22,7 @@ pip install pandas
 ```
 
 # How to use
-## 1.
+## 1. Use Git clone for download the code
 ```bash
 git clone https://github.com/SEU_USUARIO/csv-to-json-converter.git
 ```
@@ -32,7 +32,7 @@ git clone https://github.com/SEU_USUARIO/csv-to-json-converter.git
 cd csv-to-json-converter
 ```
 
-##3. Run on the terminal
+## 3. Run on the terminal
 ```bash
 python main.py people_data.csv
 ```
